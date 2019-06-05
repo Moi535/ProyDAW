@@ -1,0 +1,36 @@
+.features .fas {
+    font-size: 32px;
+    color: red;
+}
+
+html{
+    position: relative;
+    min-height: 100%;
+}
+
+body{
+    margin-bottom: 200px;
+}
+
+.footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 200px;
+}
+
+.footer{
+    color: darkgrey;
+    background-color: black;
+}
+
+.footer a{
+    color: aqua;
+}
+
+@media only screen and (max-width: 768px) {
+    .footer{ height: 350px;}
+    body{
+        margin-bottom: 350px;
+    }
+}

@@ -1,6 +1,6 @@
 .features .fas {
     font-size: 32px;
-    color: red;
+    color: black;
 }
 
 html{
@@ -20,12 +20,12 @@ body{
 }
 
 .footer{
-    color: darkgrey;
-    background-color: black;
+    color: black;
+    background-color:beige;
 }
 
 .footer a{
-    color: aqua;
+    color:black;
 }
 
 @media only screen and (max-width: 768px) {

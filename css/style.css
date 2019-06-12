@@ -12,6 +12,12 @@ body{
     margin-bottom: 200px;
 }
 
+#carouselText {
+    margin-top: 60px;
+    padding: 10px 30px 10px;
+    background-color:lightgray;
+}
+
 .footer{
     position: absolute;
     bottom: 0;
@@ -21,7 +27,7 @@ body{
 
 .footer{
     color: black;
-    background-color:beige;
+    background-color:whitesmoke;
 }
 
 .footer a{
